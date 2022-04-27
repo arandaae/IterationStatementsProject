@@ -80,5 +80,83 @@ namespace IterationStatements
             //Done
             //------------End of exercise
         }
+
+
+        //write the following loop 15 times
+        //1
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //2
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //3
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //4
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //5
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //6
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //7
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //8
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //9
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //10
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //11
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //12
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //13
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //14
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
+        //15
+        //for (int i = 0; i < 5; i++)
+        //{
+
+        //}
     }
 }
